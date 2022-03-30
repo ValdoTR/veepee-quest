@@ -101,7 +101,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"Veepee-Quest-Map.jpg"
+                 "value":"https:\/\/valdotr.github.io\/veepee-quest\/src\/assets\/Veepee_Quest_Map.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
