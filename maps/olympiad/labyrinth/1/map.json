@@ -333,12 +333,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"WorkAdventure copyright"
+         "value":"workadventu.re \/ CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"WorkAdventure Labyrinth 1"
+         "value":"Veepee Quest - Olympiad's labyrinth 1 map"
         }, 
         {
          "name":"mapImage",
@@ -348,17 +348,17 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/workadventure\/olympiad-map"
+         "value":"https:\/\/valdotr.github.io\/veepee-quest\/maps\/olympiad\/labyrinth\/1\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Labyrinth1"
+         "value":"Labyrinth 1"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"..\/..\/..\/script.js"
+         "value":"..\/..\/..\/..\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",

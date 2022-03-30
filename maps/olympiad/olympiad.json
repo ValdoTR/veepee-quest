@@ -669,27 +669,27 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"WorkAdventure copyright"
+         "value":"workadventu.re \/ CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"WorkAdventure Home"
+         "value":"Veepee Quest - Olympiad map"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"home.png"
+         "value":"olympiad.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/workadventure\/olympiad-map"
+         "value":"https:\/\/valdotr.github.io\/veepee-quest\/maps\/olympiad\/olympiad.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Home"
+         "value":"Olympiad"
         }, 
         {
          "name":"script",

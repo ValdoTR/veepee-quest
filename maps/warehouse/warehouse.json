@@ -664,17 +664,22 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: WorkAdventure \n https:\/\/workadventu.re"
+         "value":"workadventu.re \/ CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Map of the warehouse for Veepee"
+         "value":"Veepee Quest - Warehouse map"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"warehouse.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/valdotr.github.io\/veepee-quest\/maps\/warehouse\/warehouse.json"
         }, 
         {
          "name":"mapName",

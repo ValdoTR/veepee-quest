@@ -339,12 +339,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"WorkAdventure copyright"
+         "value":"workadventu.re \/ CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"WorkAdventure Labyrinth 5"
+         "value":"Veepee Quest - Olympiad's labyrinth 5 map"
         }, 
         {
          "name":"mapImage",
@@ -354,19 +354,20 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/workadventure\/olympiad-map"
+         "value":"https:\/\/valdotr.github.io\/veepee-quest\/maps\/olympiad\/labyrinth\/5\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Labyrinth5"
-        },{
-     "name":"script",
-     "type":"string",
-     "value":"..\/..\/..\/script.js"
-   }],
+         "value":"Labyrinth 5"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"..\/..\/..\/..\/script.js"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.8.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1247,6 +1248,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":"1.8",
  "width":30
 }

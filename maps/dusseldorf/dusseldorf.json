@@ -589,12 +589,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+         "value":"workadventu.re \/ CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Virtual office for VeePee Dusseldorf"
+         "value":"Veepee Quest - Dusseldorf map"
         }, 
         {
          "name":"mapImage",
@@ -604,7 +604,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/valdotr.github.io\/veepee-quest-map\/dusseldorf.json"
+         "value":"https:\/\/valdotr.github.io\/veepee-quest\/maps\/dusseldorf\/dusseldorf.json"
         }, 
         {
          "name":"mapName",
