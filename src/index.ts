@@ -184,8 +184,7 @@ WA.onInit().then(() => {
     for(let name of Object.keys(config)) {
         // We assume that each popup and zone have a name in common + "Popup" for popups and + "Zone" for layers.
         const layerName = name + "Zone"
-        const popupName = name + "Popup"
-        WA.room.onEnterLayer(layerName).subscribe(() => openPopup(popupName))
+        WA.room.onEnterLayer(layerName).subscribe(() => openPopup(name))
         WA.room.onLeaveLayer(layerName).subscribe(() => {
             closePopup()
             WA.nav.closeCoWebSite();
@@ -248,8 +247,9 @@ WA.onInit().then(() => {
 }).catch(e => console.error(e));
 
 // Popup management functions
-function openPopup(popupName: string) {
-    currentPopup = WA.ui.openPopup(popupName, config[popupName].message, config[popupName].buttons)
+function openPopup(name: string) {
+    const popupName = name + "Popup"
+    currentPopup = WA.ui.openPopup(popupName, config[name].message, config[name].buttons)
 }
 function closePopup() {
     if (typeof currentPopup !== "undefined") {
