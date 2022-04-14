@@ -7,6 +7,16 @@ let currentPopup: any;
 const declineGameText = "It's not for me"
 const acceptGameText = "Challenge accepted!"
 const config: any = {
+    easterEggCandle: {
+        message: "Test demo",
+        buttons: [
+            {
+                label: "Close",
+                className: "primary",
+                callback: () => closePopup(),
+            },
+        ]
+    },
     crackTheCode: {
         message: "Play the crack the code game! The 1st scavenger hunt challenge on Veepee Quest. Click below to discover the page instruction and where to put the clue answers.",
         buttons: [
